@@ -1,0 +1,17 @@
+오른쪽 클릭
+추가옵션 표시
+git bash
+
+링크 카피
+git bash 켜기 
+
+폴더생성
+$ git clone https://github.com/jia0506/LibraryWebsite.git
+
+폴더 동기화 
+$ git pull
+
+파일 업로드
+$ git add . (폴더 켜자마자 페이지에서 치기)
+$ git commit -m "표시하고 싶은 메세지"
+$ git push
